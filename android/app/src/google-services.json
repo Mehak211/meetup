@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284255420895",
+    "project_id": "meetup-4ee4d",
+    "storage_bucket": "meetup-4ee4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284255420895:android:9e32d841cf504d2b78846a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284255420895-mjosp30k77uls5tqvheut7b7gfniivdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "68d7f97c9f7c134d7e72e9fa52608ecdf6fd5f1a"
+          }
+        },
+        {
+          "client_id": "284255420895-htsgsj69k6p8hahpidae14kog4n8udct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTr4T4YO5uw0UartDu5VZSsB09XhExEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284255420895-htsgsj69k6p8hahpidae14kog4n8udct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
