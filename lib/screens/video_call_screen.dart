@@ -41,6 +41,8 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
       isAudioMuted: isAudioMuted,
       isVideoMuted: isVideoMuted,
       username: nameController.text,
+      //token: '1234'
+      // token: nameController.text
     );
   }
 

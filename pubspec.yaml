@@ -32,11 +32,13 @@ dependencies:
   cupertino_icons: ^1.0.6
   firebase_auth: ^4.19.1
   firebase_core: ^2.29.0
-  jitsi_meet_flutter_sdk: ^0.4.2
+  jitsi_meet_wrapper: ^0.2.0+1
+  faker: ^2.1.0
   flutter:
     sdk: flutter
   google_sign_in: ^6.2.1
   intl: ^0.17.0
+  whiteboard: ^0.0.2
 
 dev_dependencies:
   flutter_lints: ^3.0.0
